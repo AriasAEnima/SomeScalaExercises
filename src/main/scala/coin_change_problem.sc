@@ -25,8 +25,3 @@ val result: Int = jumps match {
 }
 
 println(s"The minimum change is $result")
-
-
-
-
-
